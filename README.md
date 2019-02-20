@@ -2,15 +2,10 @@
 	<img src="https://raw.githubusercontent.com/felipeorlando/aprenda-rubyonrails/master/cover.jpg" alt="Aprenda Ruby on Rails" style="max-width:100%;">
 </p>
 
-<h1 align="center">Aprenda Ruby on Rails</h1>
+<h1 align="center">Aprenda X(template)</h1>
 
-<p align="center">Central de conhecimento sobre Ruby, Rails e afins.</p>
+<p align="center">Central de conhecimento sobre X(template).</p>
 
-<p align="center">
-	<a href="https://travis-ci.org/felipeorlando/aprenda-rubyonrails" target="_blank">
-		<img src="https://travis-ci.org/felipeorlando/aprenda-rubyonrails.svg?branch=master">
-	</a>
-</p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
